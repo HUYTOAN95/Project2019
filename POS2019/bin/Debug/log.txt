@@ -2720,3 +2720,23 @@ Log Entry : 00:16:43 07 Tháng Bảy 2019
 ------Begin - Mèo Đầu Gấu-------------------------
 Nội dung :select Server from _Server where MachineName1 ='DESKTOP-AEMURG6' or MachineName2='DESKTOP-AEMURG6' or MachineName3='DESKTOP-AEMURG6' 
 -------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 08:09:04 07 Tháng Bảy 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :select count(*) from _Users where UserName='admin' 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 08:09:04 07 Tháng Bảy 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :Select count(*) from _Users where UserName='admin' and Password ='admin' and Status = 1 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 08:09:04 07 Tháng Bảy 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :Select UserCode from _Users where UserName='admin' and Password ='admin' and Status = 1 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 08:09:04 07 Tháng Bảy 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :select Server from _Server where MachineName1 ='DESKTOP-AEMURG6' or MachineName2='DESKTOP-AEMURG6' or MachineName3='DESKTOP-AEMURG6' 
+-------End -- Mèo Đầu Gấu ------------------------

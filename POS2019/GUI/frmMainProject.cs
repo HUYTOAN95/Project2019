@@ -61,7 +61,7 @@ namespace POS2019.GUI
 
         private void buttonItem16_Click(object sender, EventArgs e)
         {
-            addTab("Nhân viên", frmNhanVien);
+           
 
         }
         private bool CheckExistTab(string Table)
