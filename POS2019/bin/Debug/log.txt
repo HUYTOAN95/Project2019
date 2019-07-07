@@ -1,0 +1,2722 @@
+﻿
+Log Entry : 13:19:51 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select top(0) * from _Server
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 13:19:51 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : INSERT INTO _Server(Server,DBName,UserName,PassWord,MachineName1,MachineName2,MachineName3,KeyUnLock,DateTime,NoWS,KeyUnlock2) VALUES ('127.0.0.1,1433','POS','sa','123456789','DESKTOP-AEMURG6','DESKTOP-AEMURG6','DESKTOP-AEMURG6',73159253,'05/03/2019 00:00:00','','05032019131951')
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 13:20:22 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Server where KeyUnlock=73159253 and KeyUnlock2='05032019131951'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 13:20:22 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Update _Server Set NoWS =20 Where KeyUnlock=73159253 and KeyUnlock2='05032019131951'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 13:21:32 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select top(0) * from _Server
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 13:21:32 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : INSERT INTO _Server(Server,DBName,UserName,PassWord,MachineName1,MachineName2,MachineName3,KeyUnLock,DateTime,NoWS,KeyUnlock2) VALUES ('127.0.0.1,1433','POS','sa','123456789','DESKTOP-AEMURG6','DESKTOP-AEMURG6','DESKTOP-AEMURG6',72319206,'05/03/2019 00:00:00','','05032019132132')
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 13:21:53 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Server where KeyUnlock=72319206 and KeyUnlock2='05032019132132'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 13:21:53 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Update _Server Set NoWS =20 Where KeyUnlock=72319206 and KeyUnlock2='05032019132132'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 13:22:23 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select top(0) * from _Server
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 13:22:23 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : INSERT INTO _Server(Server,DBName,UserName,PassWord,MachineName1,MachineName2,MachineName3,KeyUnLock,DateTime,NoWS,KeyUnlock2) VALUES ('127.0.0.1,1433','POS','sa','123456789','DESKTOP-AEMURG6','DESKTOP-AEMURG6','DESKTOP-AEMURG6',34118088,'05/03/2019 00:00:00','','05032019132223')
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 13:22:34 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Server where KeyUnlock=34118088 and KeyUnlock2='05032019132223'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 13:22:38 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Server where KeyUnlock=34118088 and KeyUnlock2='05032019132223'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 13:22:38 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Update _Server Set NoWS =10 Where KeyUnlock=34118088 and KeyUnlock2='05032019132223'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 13:23:09 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select top(0) * from _Server
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 13:23:09 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : INSERT INTO _Server(Server,DBName,UserName,PassWord,MachineName1,MachineName2,MachineName3,KeyUnLock,DateTime,NoWS,KeyUnlock2) VALUES ('127.0.0.1,1433','POS','sa','123456789','DESKTOP-AEMURG6','DESKTOP-AEMURG6','DESKTOP-AEMURG6',72784291,'05/03/2019 00:00:00','','05032019132309')
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 13:23:19 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Server where KeyUnlock=72784291 and KeyUnlock2='222212121'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 13:23:23 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Server where KeyUnlock=72784291 and KeyUnlock2='222212121'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 13:24:03 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select top(0) * from _Server
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 13:24:03 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : INSERT INTO _Server(Server,DBName,UserName,PassWord,MachineName1,MachineName2,MachineName3,KeyUnLock,DateTime,NoWS,KeyUnlock2) VALUES ('127.0.0.1,1433','POS','sa','123456789','DESKTOP-AEMURG6','DESKTOP-AEMURG6','DESKTOP-AEMURG6',32191200,'05/03/2019 00:00:00','','05032019132403')
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 13:24:18 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Server where KeyUnlock=32191200 and KeyUnlock2='05032019132403'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 13:24:18 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Update _Server Set NoWS =20 Where KeyUnlock=32191200 and KeyUnlock2='05032019132403'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 13:27:46 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select top(0) * from _Server
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 13:27:46 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : INSERT INTO _Server(Server,DBName,UserName,PassWord,MachineName1,MachineName2,MachineName3,KeyUnLock,DateTime,NoWS,KeyUnlock2) VALUES ('127.0.0.1,1433','POS','sa','123456789','DESKTOP-AEMURG6','DESKTOP-AEMURG6','DESKTOP-AEMURG6',91284870,'05/03/2019 00:00:00','','05032019132746')
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 13:28:04 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Server where KeyUnlock=91284870 and KeyUnlock2='05032019132746'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 13:28:04 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Update _Server Set NoWS =20 Where KeyUnlock=91284870 and KeyUnlock2='05032019132746'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 13:28:25 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select top(0) * from _Server
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 13:28:25 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : INSERT INTO _Server(Server,DBName,UserName,PassWord,MachineName1,MachineName2,MachineName3,KeyUnLock,DateTime,NoWS,KeyUnlock2) VALUES ('127.0.0.1,1433','POS','sa','123456789','DESKTOP-AEMURG6','DESKTOP-AEMURG6','DESKTOP-AEMURG6',64294804,'05/03/2019 00:00:00','','05032019132825')
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 13:28:29 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Server where KeyUnlock=64294804 and KeyUnlock2='2322323232'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 13:39:22 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : System.IO.DirectoryNotFoundException: Could not find a part of the path 'E:\POS\POS\POS2019\POS2019\bin\Debug\Image\main.ico'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.Drawing.Icon..ctor(String fileName, Int32 width, Int32 height)
+   at System.Drawing.Icon..ctor(String fileName)
+   at POS2019.GUI.frmMainPOS.Displaynotify() in e:\POS\POS\POS2019\POS2019\GUI\frmMainPOS.cs:line 25
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 13:40:36 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : System.IO.DirectoryNotFoundException: Could not find a part of the path 'E:\POS\POS\POS2019\POS2019\bin\Debug\Image\main.ico'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.Drawing.Icon..ctor(String fileName, Int32 width, Int32 height)
+   at System.Drawing.Icon..ctor(String fileName)
+   at POS2019.GUI.frmMainPOS.Displaynotify() in e:\POS\POS\POS2019\POS2019\GUI\frmMainPOS.cs:line 25
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 15:46:37 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select top(0) * from _Server
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 15:46:37 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : INSERT INTO _Server(Server,DBName,UserName,PassWord,MachineName1,MachineName2,MachineName3,KeyUnLock,DateTime,NoWS,KeyUnlock2) VALUES ('127.0.0.1,1433','POS','sa','123456789','DESKTOP-AEMURG6','DESKTOP-AEMURG6','DESKTOP-AEMURG6',68953701,'05/03/2019 00:00:00','','05032019154637')
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 17:47:45 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select top(0) * from _Currency
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 17:52:33 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select top(0) * from _Currency
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 17:59:19 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select top(0) * from _Currency
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 18:13:57 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select CurrencyCode,Buy,Transfer,Sell,DateTime from _Currency
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 18:15:11 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : System.Data.SqlClient.SqlException (0x80131904): Invalid object name '__Currency'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at POS2019.DAL.DataAccess.SQLEXEC(String sql) in e:\POS\POS\POS2019\POS2019\DAL\DataAccess.cs:line 156
+ClientConnectionId:0c61de57-ff71-4fed-bafa-8f04f0493656
+Error Number:208,State:1,Class:16
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 18:16:59 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : System.Data.SqlClient.SqlException (0x80131904): Invalid object name '__Currency'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at POS2019.DAL.DataAccess.SQLEXEC(String sql) in e:\POS\POS\POS2019\POS2019\DAL\DataAccess.cs:line 164
+ClientConnectionId:cc0f2baa-6612-4d73-9a7d-a1e5eb5208c5
+Error Number:208,State:1,Class:16
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 18:16:59 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : System.NullReferenceException: Object reference not set to an instance of an object.
+   at POS2019.DAL.DataAccess.UpdateExRate(Boolean IsUpate) in e:\POS\POS\POS2019\POS2019\DAL\DataAccess.cs:line 78
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 18:16:59 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select CurrencyCode,Buy,Transfer,Sell,DateTime from _Currency
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 18:18:44 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from __Currency where ngay ='05/03/2019'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 18:18:44 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : System.Data.SqlClient.SqlException (0x80131904): Invalid object name '__Currency'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at POS2019.DAL.DataAccess.SQLEXEC(String sql) in e:\POS\POS\POS2019\POS2019\DAL\DataAccess.cs:line 166
+ClientConnectionId:409a1a66-5a87-457d-8ae3-5a9ba44ef783
+Error Number:208,State:1,Class:16
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 18:18:44 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : System.NullReferenceException: Object reference not set to an instance of an object.
+   at POS2019.DAL.DataAccess.UpdateExRate(Boolean IsUpate) in e:\POS\POS\POS2019\POS2019\DAL\DataAccess.cs:line 80
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 18:18:44 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select CurrencyCode,Buy,Transfer,Sell,DateTime from _Currency
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 18:19:36 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from __Currency where ngay ='05/03/2019'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 18:19:36 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : System.Data.SqlClient.SqlException (0x80131904): Invalid object name '__Currency'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at POS2019.DAL.DataAccess.SQLEXEC(String sql) in e:\POS\POS\POS2019\POS2019\DAL\DataAccess.cs:line 167
+ClientConnectionId:a13e4dda-f0c5-4f83-abbb-b171bd84ff69
+Error Number:208,State:1,Class:16
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 18:19:36 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : System.NullReferenceException: Object reference not set to an instance of an object.
+   at POS2019.DAL.DataAccess.UpdateExRate(Boolean IsUpate) in e:\POS\POS\POS2019\POS2019\DAL\DataAccess.cs:line 81
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 18:19:36 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select CurrencyCode,Buy,Transfer,Sell,DateTime from _Currency
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 18:21:27 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Currency where DateTime ='05/03/2019'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 18:21:27 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Currency where DateTime ='05/03/2019'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 18:21:27 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select top(0) * from _Currency
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 18:21:27 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : INSERT INTO Table(CurrencyCode,Buy,Transfer,Sell,DateTime) VALUES ('AUD',1608035,1617741,1635406,'05/03/2019 00:00:00')INSERT INTO Table(CurrencyCode,Buy,Transfer,Sell,DateTime) VALUES ('CAD',1702165,1717624,173638,'05/03/2019 00:00:00')INSERT INTO Table(CurrencyCode,Buy,Transfer,Sell,DateTime) VALUES ('CHF',2250974,2266842,2296183,'05/03/2019 00:00:00')INSERT INTO Table(CurrencyCode,Buy,Transfer,Sell,DateTime) VALUES ('DKK',0,342752,353496,'05/03/2019 00:00:00')INSERT INTO Table(CurrencyCode,Buy,Transfer,Sell,DateTime) VALUES ('EUR',257846,2586219,2658613,'05/03/2019 00:00:00')INSERT INTO Table(CurrencyCode,Buy,Transfer,Sell,DateTime) VALUES ('GBP',2996096,3017217,3044069,'05/03/2019 00:00:00')INSERT INTO Table(CurrencyCode,Buy,Transfer,Sell,DateTime) VALUES ('HKD',292151,29421,298615,'05/03/2019 00:00:00')INSERT INTO Table(CurrencyCode,Buy,Transfer,Sell,DateTime) VALUES ('INR',0,33439,34751,'05/03/2019 00:00:00')INSERT INTO Table(CurrencyCode,Buy,Transfer,Sell,DateTime) VALUES ('JPY',20167,20371,20962,'05/03/2019 00:00:00')INSERT INTO Table(CurrencyCode,Buy,Transfer,Sell,DateTime) VALUES ('KRW',1835,1932,2053,'05/03/2019 00:00:00')INSERT INTO Table(CurrencyCode,Buy,Transfer,Sell,DateTime) VALUES ('KWD',0,7634501,7934044,'05/03/2019 00:00:00')INSERT INTO Table(CurrencyCode,Buy,Transfer,Sell,DateTime) VALUES ('MYR',0,558005,565227,'05/03/2019 00:00:00')INSERT INTO Table(CurrencyCode,Buy,Transfer,Sell,DateTime) VALUES ('NOK',0,261549,269747,'05/03/2019 00:00:00')INSERT INTO Table(CurrencyCode,Buy,Transfer,Sell,DateTime) VALUES ('RUB',0,35472,39526,'05/03/2019 00:00:00')INSERT INTO Table(CurrencyCode,Buy,Transfer,Sell,DateTime) VALUES ('SAR',0,618513,642781,'05/03/2019 00:00:00')INSERT INTO Table(CurrencyCode,Buy,Transfer,Sell,DateTime) VALUES ('SEK',0,239867,245906,'05/03/2019 00:00:00')INSERT INTO Table(CurrencyCode,Buy,Transfer,Sell,DateTime) VALUES ('SGD',1685322,1697202,1715735,'05/03/2019 00:00:00')INSERT INTO Table(CurrencyCode,Buy,Transfer,Sell,DateTime) VALUES ('THB',71179,71179,74148,'05/03/2019 00:00:00')INSERT INTO Table(CurrencyCode,Buy,Transfer,Sell,DateTime) VALUES ('USD',23210,23210,23310,'05/03/2019 00:00:00')
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 18:21:27 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : System.Data.SqlClient.SqlException (0x80131904): Incorrect syntax near the keyword 'Table'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at POS2019.DAL.DataAccess.InsertDBToSQL(DataTable dt) in e:\POS\POS\POS2019\POS2019\DAL\DataAccess.cs:line 59
+ClientConnectionId:e4a30736-3d61-482a-9797-6c3fbdf55140
+Error Number:156,State:1,Class:15
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 18:21:27 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select CurrencyCode,Buy,Transfer,Sell,DateTime from _Currency
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 18:24:20 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Currency where DateTime ='05/03/2019'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 18:24:20 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Currency where DateTime ='05/03/2019'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 18:24:20 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select top(0) * from _Currency
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 18:24:20 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : INSERT INTO _Currency(CurrencyCode,Buy,Transfer,Sell,DateTime) VALUES ('AUD',1608035,1617741,1635406,'05/03/2019 00:00:00')INSERT INTO _Currency(CurrencyCode,Buy,Transfer,Sell,DateTime) VALUES ('CAD',1702165,1717624,173638,'05/03/2019 00:00:00')INSERT INTO _Currency(CurrencyCode,Buy,Transfer,Sell,DateTime) VALUES ('CHF',2250974,2266842,2296183,'05/03/2019 00:00:00')INSERT INTO _Currency(CurrencyCode,Buy,Transfer,Sell,DateTime) VALUES ('DKK',0,342752,353496,'05/03/2019 00:00:00')INSERT INTO _Currency(CurrencyCode,Buy,Transfer,Sell,DateTime) VALUES ('EUR',257846,2586219,2658613,'05/03/2019 00:00:00')INSERT INTO _Currency(CurrencyCode,Buy,Transfer,Sell,DateTime) VALUES ('GBP',2996096,3017217,3044069,'05/03/2019 00:00:00')INSERT INTO _Currency(CurrencyCode,Buy,Transfer,Sell,DateTime) VALUES ('HKD',292151,29421,298615,'05/03/2019 00:00:00')INSERT INTO _Currency(CurrencyCode,Buy,Transfer,Sell,DateTime) VALUES ('INR',0,33439,34751,'05/03/2019 00:00:00')INSERT INTO _Currency(CurrencyCode,Buy,Transfer,Sell,DateTime) VALUES ('JPY',20167,20371,20962,'05/03/2019 00:00:00')INSERT INTO _Currency(CurrencyCode,Buy,Transfer,Sell,DateTime) VALUES ('KRW',1835,1932,2053,'05/03/2019 00:00:00')INSERT INTO _Currency(CurrencyCode,Buy,Transfer,Sell,DateTime) VALUES ('KWD',0,7634501,7934044,'05/03/2019 00:00:00')INSERT INTO _Currency(CurrencyCode,Buy,Transfer,Sell,DateTime) VALUES ('MYR',0,558005,565227,'05/03/2019 00:00:00')INSERT INTO _Currency(CurrencyCode,Buy,Transfer,Sell,DateTime) VALUES ('NOK',0,261549,269747,'05/03/2019 00:00:00')INSERT INTO _Currency(CurrencyCode,Buy,Transfer,Sell,DateTime) VALUES ('RUB',0,35472,39526,'05/03/2019 00:00:00')INSERT INTO _Currency(CurrencyCode,Buy,Transfer,Sell,DateTime) VALUES ('SAR',0,618513,642781,'05/03/2019 00:00:00')INSERT INTO _Currency(CurrencyCode,Buy,Transfer,Sell,DateTime) VALUES ('SEK',0,239867,245906,'05/03/2019 00:00:00')INSERT INTO _Currency(CurrencyCode,Buy,Transfer,Sell,DateTime) VALUES ('SGD',1685322,1697202,1715735,'05/03/2019 00:00:00')INSERT INTO _Currency(CurrencyCode,Buy,Transfer,Sell,DateTime) VALUES ('THB',71179,71179,74148,'05/03/2019 00:00:00')INSERT INTO _Currency(CurrencyCode,Buy,Transfer,Sell,DateTime) VALUES ('USD',23210,23210,23310,'05/03/2019 00:00:00')
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 18:24:20 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select CurrencyCode,Buy,Transfer,Sell,DateTime from _Currency
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 18:24:40 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Currency where DateTime ='05/03/2019'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 18:24:40 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Currency where DateTime ='05/03/2019'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 18:24:40 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select CurrencyCode,Buy,Transfer,Sell,DateTime from _Currency
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 18:32:50 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select top(0) * from _Server
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 18:32:50 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : INSERT INTO _Server(Server,DBName,UserName,PassWord,MachineName1,MachineName2,MachineName3,KeyUnLock,DateTime,NoWS,KeyUnlock2) VALUES ('127.0.0.1,1433','POS','sa','123456789','DESKTOP-AEMURG6','DESKTOP-AEMURG6','DESKTOP-AEMURG6',31307881,'05/03/2019 00:00:00','','05032019183250')
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 18:39:52 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select top(0) * from _Server
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 18:39:52 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : INSERT INTO _Server(Server,DBName,UserName,PassWord,MachineName1,MachineName2,MachineName3,KeyUnLock,DateTime,NoWS,KeyUnlock2) VALUES ('127.0.0.1,1433','POS','sa','123456789','DESKTOP-AEMURG6','DESKTOP-AEMURG6','DESKTOP-AEMURG6',20681043,'05/03/2019 00:00:00','','05032019183952')
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 18:42:00 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select top(0) * from _Server
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 18:42:00 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : INSERT INTO _Server(Server,DBName,UserName,PassWord,MachineName1,MachineName2,MachineName3,KeyUnLock,DateTime,NoWS,KeyUnlock2) VALUES ('127.0.0.1,1433','POS','sa','123456789','DESKTOP-AEMURG6','DESKTOP-AEMURG6','DESKTOP-AEMURG6',32639001,'05/03/2019 00:00:00','','05032019184200')
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 18:42:53 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select top(0) * from _Server
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 18:42:53 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : INSERT INTO _Server(Server,DBName,UserName,PassWord,MachineName1,MachineName2,MachineName3,KeyUnLock,DateTime,NoWS,KeyUnlock2) VALUES ('127.0.0.1,1433','POS','sa','123456789','DESKTOP-AEMURG6','DESKTOP-AEMURG6','DESKTOP-AEMURG6',77423288,'05/03/2019 00:00:00','','05032019184253')
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 18:46:05 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select top(0) * from _Server
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 18:46:05 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : INSERT INTO _Server(Server,DBName,UserName,PassWord,MachineName1,MachineName2,MachineName3,KeyUnLock,DateTime,NoWS,KeyUnlock2) VALUES ('127.0.0.1,1433','POS','sa','123456789','DESKTOP-AEMURG6','DESKTOP-AEMURG6','DESKTOP-AEMURG6',82822864,'05/03/2019 00:00:00','','05032019184605')
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 18:49:40 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select top(0) * from _Server
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 18:49:40 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : INSERT INTO _Server(Server,DBName,UserName,PassWord,MachineName1,MachineName2,MachineName3,KeyUnLock,DateTime,NoWS,KeyUnlock2) VALUES ('127.0.0.1,1433','POS','sa','123456789','DESKTOP-AEMURG6','DESKTOP-AEMURG6','DESKTOP-AEMURG6',2325579,'05/03/2019 00:00:00','','05032019184940')
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 18:50:37 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select top(0) * from _Server
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 18:50:37 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : INSERT INTO _Server(Server,DBName,UserName,PassWord,MachineName1,MachineName2,MachineName3,KeyUnLock,DateTime,NoWS,KeyUnlock2) VALUES ('127.0.0.1,1433','POS','sa','123456789','DESKTOP-AEMURG6','DESKTOP-AEMURG6','DESKTOP-AEMURG6',12001664,'05/03/2019 00:00:00','','05032019185037')
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 18:54:25 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select top(0) * from _Server
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 18:54:25 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : INSERT INTO _Server(Server,DBName,UserName,PassWord,MachineName1,MachineName2,MachineName3,KeyUnLock,DateTime,NoWS,KeyUnlock2) VALUES ('127.0.0.1,1433','POS','sa','123456789','DESKTOP-AEMURG6','DESKTOP-AEMURG6','DESKTOP-AEMURG6',52349161,'05/03/2019 00:00:00','','05032019185425')
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 18:55:32 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Currency where DateTime ='05/03/2019'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 18:55:32 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Currency where DateTime ='05/03/2019'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 18:55:32 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select CurrencyCode,Buy,Transfer,Sell,DateTime from _Currency
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 18:55:39 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select top(0) * from _Server
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 18:55:39 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : INSERT INTO _Server(Server,DBName,UserName,PassWord,MachineName1,MachineName2,MachineName3,KeyUnLock,DateTime,NoWS,KeyUnlock2) VALUES ('127.0.0.1,1433','POS','sa','123456789','DESKTOP-AEMURG6','DESKTOP-AEMURG6','DESKTOP-AEMURG6',49509062,'05/03/2019 00:00:00','','05032019185539')
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 18:57:55 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select top(0) * from _Server
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 18:57:55 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : INSERT INTO _Server(Server,DBName,UserName,PassWord,MachineName1,MachineName2,MachineName3,KeyUnLock,DateTime,NoWS,KeyUnlock2) VALUES ('127.0.0.1,1433','POS','sa','123456789','DESKTOP-AEMURG6','DESKTOP-AEMURG6','DESKTOP-AEMURG6',80460490,'05/03/2019 00:00:00','','05032019185755')
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 18:58:41 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select top(0) * from _Server
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 18:58:41 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : INSERT INTO _Server(Server,DBName,UserName,PassWord,MachineName1,MachineName2,MachineName3,KeyUnLock,DateTime,NoWS,KeyUnlock2) VALUES ('127.0.0.1,1433','POS','sa','123456789','DESKTOP-AEMURG6','DESKTOP-AEMURG6','DESKTOP-AEMURG6',90227304,'05/03/2019 00:00:00','','05032019185841')
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 20:07:20 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select top(0) * from _Server
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 20:07:20 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : INSERT INTO _Server(Server,DBName,UserName,PassWord,MachineName1,MachineName2,MachineName3,KeyUnLock,DateTime,NoWS,KeyUnlock2) VALUES ('127.0.0.1,1433','POS','sa','123456789','DESKTOP-AEMURG6','DESKTOP-AEMURG6','DESKTOP-AEMURG6',45085974,'05/03/2019 00:00:00','','05032019200720')
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 20:07:51 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select KeyUnlock2 from _Server where KeyUnLock=45085974
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 20:13:01 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select top(0) * from _Server
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 20:13:01 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : INSERT INTO _Server(Server,DBName,UserName,PassWord,MachineName1,MachineName2,MachineName3,KeyUnLock,DateTime,NoWS,KeyUnlock2) VALUES ('127.0.0.1,1433','POS','sa','123456789','DESKTOP-AEMURG6','DESKTOP-AEMURG6','DESKTOP-AEMURG6',71304939,'05/03/2019 00:00:00','','05032019201301')
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 20:13:14 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select KeyUnlock2 from _Server where KeyUnLock=71304939
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 20:13:17 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : System.Net.Mail.SmtpException: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.0 Must issue a STARTTLS command first. c19sm2532116pgi.42 - gsmtp
+   at System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at POS2019.DAL.Ultis.SendMail(String ToMail, String FromMail, String FromPW, String Content, String Subject, Attachment FileAttach) in e:\POS\POS\POS2019\POS2019\DAL\Ultis.cs:line 142
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 20:17:23 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select top(0) * from _Server
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 20:17:23 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : INSERT INTO _Server(Server,DBName,UserName,PassWord,MachineName1,MachineName2,MachineName3,KeyUnLock,DateTime,NoWS,KeyUnlock2) VALUES ('127.0.0.1,1433','POS','sa','123456789','DESKTOP-AEMURG6','DESKTOP-AEMURG6','DESKTOP-AEMURG6',72013104,'05/03/2019 00:00:00','','05032019201723')
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 20:17:37 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select KeyUnlock2 from _Server where KeyUnLock=72013104
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 20:17:40 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : System.Net.Mail.SmtpException: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.5.1 Authentication Required. Learn more at
+   at System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at POS2019.DAL.Ultis.SendMail(String ToMail, String FromMail, String FromPW, String Content, String Subject, Attachment FileAttach) in e:\POS\POS\POS2019\POS2019\DAL\Ultis.cs:line 143
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 20:19:25 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select top(0) * from _Server
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 20:19:25 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : INSERT INTO _Server(Server,DBName,UserName,PassWord,MachineName1,MachineName2,MachineName3,KeyUnLock,DateTime,NoWS,KeyUnlock2) VALUES ('127.0.0.1,1433','POS','sa','123456789','DESKTOP-AEMURG6','DESKTOP-AEMURG6','DESKTOP-AEMURG6',66080090,'05/03/2019 00:00:00','','05032019201925')
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 20:19:37 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select KeyUnlock2 from _Server where KeyUnLock=66080090
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 20:19:41 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : System.Net.Mail.SmtpException: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.5.1 Authentication Required. Learn more at
+   at System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at POS2019.DAL.Ultis.SendMail(String ToMail, String FromMail, String FromPW, String Content, String Subject, Attachment FileAttach) in e:\POS\POS\POS2019\POS2019\DAL\Ultis.cs:line 143
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 20:24:34 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select top(0) * from _Server
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 20:24:34 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : INSERT INTO _Server(Server,DBName,UserName,PassWord,MachineName1,MachineName2,MachineName3,KeyUnLock,DateTime,NoWS,KeyUnlock2) VALUES ('127.0.0.1,1433','POS','sa','123456789','DESKTOP-AEMURG6','DESKTOP-AEMURG6','DESKTOP-AEMURG6',96073542,'05/03/2019 00:00:00','','05032019202434')
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 20:24:48 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select KeyUnlock2 from _Server where KeyUnLock=96073542
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 20:24:51 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : System.Net.Mail.SmtpException: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.5.1 Authentication Required. Learn more at
+   at System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at POS2019.DAL.Ultis.SendMail(String ToMail, String FromMail, String FromPW, String Content, String Subject, Attachment FileAttach) in e:\POS\POS\POS2019\POS2019\DAL\Ultis.cs:line 145
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 20:26:48 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Currency where DateTime ='05/03/2019'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 20:26:48 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Currency where DateTime ='05/03/2019'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 20:26:48 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select CurrencyCode,Buy,Transfer,Sell,DateTime from _Currency
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 20:26:56 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select top(0) * from _Server
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 20:26:56 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : INSERT INTO _Server(Server,DBName,UserName,PassWord,MachineName1,MachineName2,MachineName3,KeyUnLock,DateTime,NoWS,KeyUnlock2) VALUES ('127.0.0.1,1433','POS','sa','123456789','DESKTOP-AEMURG6','DESKTOP-AEMURG6','DESKTOP-AEMURG6',40768906,'05/03/2019 00:00:00','','05032019202656')
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 20:27:12 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select KeyUnlock2 from _Server where KeyUnLock=40768906
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 20:27:15 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : System.Net.Mail.SmtpException: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.5.1 Authentication Required. Learn more at
+   at System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at POS2019.DAL.Ultis.SendMail(String ToMail, String FromMail, String FromPW, String Content, String Subject, Attachment FileAttach) in e:\POS\POS\POS2019\POS2019\DAL\Ultis.cs:line 145
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 20:29:36 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select KeyUnlock2 from _Server where KeyUnLock=40768906
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 20:29:39 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : System.Net.Mail.SmtpException: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.5.1 Authentication Required. Learn more at
+   at System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at POS2019.DAL.Ultis.SendMail(String ToMail, String FromMail, String FromPW, String Content, String Subject, Attachment FileAttach) in e:\POS\POS\POS2019\POS2019\DAL\Ultis.cs:line 145
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 20:30:39 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select KeyUnlock2 from _Server where KeyUnLock=40768906
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 20:30:42 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : System.Net.Mail.SmtpException: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.5.1 Authentication Required. Learn more at
+   at System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at POS2019.DAL.Ultis.SendMail(String ToMail, String FromMail, String FromPW, String Content, String Subject, Attachment FileAttach) in e:\POS\POS\POS2019\POS2019\DAL\Ultis.cs:line 145
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 20:31:55 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select KeyUnlock2 from _Server where KeyUnLock=40768906
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 20:36:54 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select top(0) * from _Server
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 20:36:54 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : INSERT INTO _Server(Server,DBName,UserName,PassWord,MachineName1,MachineName2,MachineName3,KeyUnLock,DateTime,NoWS,KeyUnlock2) VALUES ('127.0.0.1,1433','POS','sa','123456789','DESKTOP-AEMURG6','DESKTOP-AEMURG6','DESKTOP-AEMURG6',40424149,'05/03/2019 00:00:00','','05032019203654')
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 20:37:08 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select KeyUnlock2 from _Server where KeyUnLock=40424149
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 20:38:09 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select top(0) * from _Server
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 20:38:09 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : INSERT INTO _Server(Server,DBName,UserName,PassWord,MachineName1,MachineName2,MachineName3,KeyUnLock,DateTime,NoWS,KeyUnlock2) VALUES ('127.0.0.1,1433','POS','sa','123456789','DESKTOP-AEMURG6','DESKTOP-AEMURG6','DESKTOP-AEMURG6',80445666,'05/03/2019 00:00:00','','05032019203809')
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 20:38:24 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select KeyUnlock2 from _Server where KeyUnLock=80445666
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 20:41:21 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select top(0) * from _Server
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 20:41:21 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : INSERT INTO _Server(Server,DBName,UserName,PassWord,MachineName1,MachineName2,MachineName3,KeyUnLock,DateTime,NoWS,KeyUnlock2) VALUES ('127.0.0.1,1433','POS','sa','123456789','DESKTOP-AEMURG6','DESKTOP-AEMURG6','DESKTOP-AEMURG6',32193502,'05/03/2019 00:00:00','','05032019204121')
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 20:41:35 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select KeyUnlock2 from _Server where KeyUnLock=32193502
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 20:42:01 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Server where KeyUnlock=32193502 and KeyUnlock2='05032019204121'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 20:42:01 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Update _Server Set NoWS =20 Where KeyUnlock=32193502 and KeyUnlock2='05032019204121'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 21:10:29 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select top(0) * from _Server
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 21:10:29 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : INSERT INTO _Server(Server,DBName,UserName,PassWord,MachineName1,MachineName2,MachineName3,KeyUnLock,DateTime,NoWS,KeyUnlock2,Email) VALUES ('127.0.0.1,1433','POS','sa','123456789','DESKTOP-AEMURG6','DESKTOP-AEMURG6','DESKTOP-AEMURG6',80600404,'05/03/2019 00:00:00','','05032019211029','')
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 21:10:46 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select KeyUnlock2 from _Server where KeyUnLock=80600404 and MachineName1 ='DESKTOP-AEMURG6'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 21:10:54 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Update _Server Set Email = 'nguyenhuytoan.effect@gmail.com' where KeyUnLock=80600404 and MachineName1 ='DESKTOP-AEMURG6'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 21:12:23 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Server where KeyUnlock=80600404 and KeyUnlock2='05032019211029'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 21:12:23 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Update _Server Set NoWS =8 Where KeyUnlock=80600404 and KeyUnlock2='05032019211029'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 21:14:52 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select top(0) * from _Server
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 21:14:53 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : INSERT INTO _Server(Server,DBName,UserName,PassWord,MachineName1,MachineName2,MachineName3,KeyUnLock,DateTime,NoWS,KeyUnlock2,Email) VALUES ('127.0.0.1,1433','POS','sa','123456789','DESKTOP-AEMURG6','DESKTOP-AEMURG6','DESKTOP-AEMURG6',51748785,'05/03/2019 00:00:00','','05032019211453','')
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 21:15:30 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select KeyUnlock2 from _Server where KeyUnLock=51748785 and MachineName1 ='DESKTOP-AEMURG6'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 21:15:36 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Update _Server Set Email = 'trangnguyen97.neu@gmail.com' where KeyUnLock=51748785 and MachineName1 ='DESKTOP-AEMURG6'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 21:40:40 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Currency where DateTime ='05/03/2019'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 21:40:40 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Currency where DateTime ='05/03/2019'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 21:40:40 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select CurrencyCode,Buy,Transfer,Sell,DateTime from _Currency
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 22:21:37 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select top(0) * from _Server
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 22:21:37 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : INSERT INTO _Server(Server,DBName,UserName,PassWord,MachineName1,MachineName2,MachineName3,KeyUnLock,DateTime,NoWS,KeyUnlock2,Email) VALUES ('127.0.0.1,1433','POS','sa','123456789','DESKTOP-AEMURG6','DESKTOP-AEMURG6','DESKTOP-AEMURG6',8182969,'05/03/2019 00:00:00','','05032019222137','')
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 22:22:50 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select top(0) * from _Server
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 22:22:50 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : INSERT INTO _Server(Server,DBName,UserName,PassWord,MachineName1,MachineName2,MachineName3,KeyUnLock,DateTime,NoWS,KeyUnlock2,Email) VALUES ('127.0.0.1,1433','POS','sa','123456789','DESKTOP-AEMURG6','DESKTOP-AEMURG6','DESKTOP-AEMURG6',9489908,'05/03/2019 00:00:00','','05032019222250','')
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 22:23:42 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select top(0) * from _Server
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 22:23:42 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : INSERT INTO _Server(Server,DBName,UserName,PassWord,MachineName1,MachineName2,MachineName3,KeyUnLock,DateTime,NoWS,KeyUnlock2,Email) VALUES ('127.0.0.1,1433','POS','sa','123456789','DESKTOP-AEMURG6','DESKTOP-AEMURG6','DESKTOP-AEMURG6',15889813,'05/03/2019 00:00:00','','05032019222342','')
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 22:28:10 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Currency where DateTime ='05/03/2019'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 22:28:10 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Currency where DateTime ='05/03/2019'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 22:28:10 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select CurrencyCode,Buy,Transfer,Sell,DateTime from _Currency
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 22:28:24 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select top(0) * from _Server
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 22:28:24 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : INSERT INTO _Server(Server,DBName,UserName,PassWord,MachineName1,MachineName2,MachineName3,KeyUnLock,DateTime,NoWS,KeyUnlock2,Email) VALUES ('127.0.0.1,1433','POS','sa','123456789','DESKTOP-AEMURG6','DESKTOP-AEMURG6','DESKTOP-AEMURG6',95135152,'05/03/2019 00:00:00','','05032019222824','')
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 22:29:15 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select top(0) * from _Server
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 22:29:15 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : INSERT INTO _Server(Server,DBName,UserName,PassWord,MachineName1,MachineName2,MachineName3,KeyUnLock,DateTime,NoWS,KeyUnlock2,Email) VALUES ('127.0.0.1,1433','POS','sa','123456789','DESKTOP-AEMURG6','DESKTOP-AEMURG6','DESKTOP-AEMURG6',59333837,'05/03/2019 00:00:00','','05032019222915','')
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 22:29:43 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select KeyUnlock2 from _Server where KeyUnLock=59333837 and MachineName1 ='DESKTOP-AEMURG6'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 22:29:51 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Update _Server Set Email = 'nguyenhuytoan.effect@gmail.com' where KeyUnLock=59333837 and MachineName1 ='DESKTOP-AEMURG6'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 22:30:27 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Server where KeyUnlock=59333837 and KeyUnlock2='05032019222915'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 22:30:27 03 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Update _Server Set NoWS =8 Where KeyUnlock=59333837 and KeyUnlock2='05032019222915'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 02:10:05 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select top(0) * from _Server
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 02:10:05 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : INSERT INTO _Server(Server,DBName,UserName,PassWord,MachineName1,MachineName2,MachineName3,KeyUnLock,DateTime,NoWS,KeyUnlock2,Email) VALUES ('127.0.0.1,1433','POS','sa','123456789','DESKTOP-AEMURG6','DESKTOP-AEMURG6','DESKTOP-AEMURG6',50139142,'05/04/2019 00:00:00','','05042019021005','')
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 02:10:36 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Server where KeyUnlock=50139142 and KeyUnlock2='05042019021005'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 02:10:40 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Server where KeyUnlock=50139142 and KeyUnlock2='05042019021005'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 02:10:41 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Update _Server Set NoWS =20 Where KeyUnlock=50139142 and KeyUnlock2='05042019021005'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 02:54:29 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='1221212'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 02:55:16 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='121212'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 02:55:31 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Users where UserName='121212' and Password ='21212' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 02:57:45 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select top(0) * from _Server
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 02:57:45 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : INSERT INTO _Server(Server,DBName,UserName,PassWord,MachineName1,MachineName2,MachineName3,KeyUnLock,DateTime,NoWS,KeyUnlock2,Email) VALUES ('127.0.0.1,1433','POS','sa','123456789','DESKTOP-AEMURG6','DESKTOP-AEMURG6','DESKTOP-AEMURG6',20643859,'05/04/2019 00:00:00','','05042019025745','')
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 03:00:26 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='12331'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 03:00:53 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='adsdadad'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 03:01:05 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Users where UserName='adsdadad' and Password ='adadada' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 03:20:36 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select top(0) * from _Server
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 03:20:36 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : INSERT INTO _Server(Server,DBName,UserName,PassWord,MachineName1,MachineName2,MachineName3,KeyUnLock,DateTime,NoWS,KeyUnlock2,Email) VALUES ('127.0.0.1,1433','POS','sa','123456789','DESKTOP-AEMURG6','DESKTOP-AEMURG6','DESKTOP-AEMURG6',42017142,'05/04/2019 00:00:00','','05042019032036','')
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 03:21:13 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Server where KeyUnlock=42017142 and KeyUnlock2='05042019032036'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 03:21:17 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Server where KeyUnlock=42017142 and KeyUnlock2='05042019032036'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 03:21:17 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Update _Server Set NoWS =24 Where KeyUnlock=42017142 and KeyUnlock2='05042019032036'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 03:21:32 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='admin'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 03:21:41 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Users where UserName='admin' and Password ='admin' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 03:33:52 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='adassdsd'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 03:34:03 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select Max(UserCode) from _Users
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 03:35:18 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select Max(UserCode) from _Users
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 03:36:04 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='âsass'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 03:36:18 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select Max(UserCode) from _Users
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 03:36:58 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='dasd'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 03:37:07 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select Max(UserCode) from _Users
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 03:37:09 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : System.Data.SqlClient.SqlException (0x80131904): Invalid object name '_User'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at POS2019.DAL.DataAccess.SelectSQL(String sql) in e:\POS\POS\POS2019\POS2019\DAL\DataAccess.cs:line 139
+ClientConnectionId:0024634e-2014-4995-8adf-f9996eb34d65
+Error Number:208,State:1,Class:16
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 03:37:48 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='fdfdfd'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 03:37:59 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select Max(UserCode) from _Users
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 03:37:59 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select top(0) * from _Users
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 03:37:59 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : INSERT INTO _Users(UserCode,UserName,Password,Permission,PermissionUser,PermissionReport,CreatedDate,ExpiredDate,Status) VALUES (1,'admin','admin','','','','','','')
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 03:38:02 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Users where UserName='fdfdfd' and Password ='fdfdfd' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 03:38:12 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='admin'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 03:38:12 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Users where UserName='admin' and Password ='admin' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 11:56:38 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='admin'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 11:56:38 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Users where UserName='admin' and Password ='admin' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 12:13:03 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='ass'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 12:13:12 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Users where UserName ='admin '
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 12:13:28 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Users where UserName ='admin '
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 12:19:40 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='âs'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 12:19:45 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Users where UserName ='admin'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 12:19:49 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Users where UserName ='admin' and PassWord =''
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 12:19:49 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select Max(UserCode) from _Users
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 12:19:49 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select top(0) * from _Users
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 12:19:49 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : INSERT INTO _Users(UserCode,UserName,Password,Permission,PermissionUser,PermissionReport,CreatedDate,ExpiredDate,Status) VALUES (2,'admin','','','','','','',0)
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 12:29:57 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='ads'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 12:30:11 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Users where UserName ='admin'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 12:30:14 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Users where UserName ='admin'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 12:30:16 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Delete from _Users where UserName ='admin'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 12:30:16 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select Max(UserCode) from _Users
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 12:30:16 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select top(0) * from _Users
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 12:30:16 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : INSERT INTO _Users(UserCode,UserName,Password,Permission,PermissionUser,PermissionReport,CreatedDate,ExpiredDate,Status) VALUES (1,'admin','admin','','','','','',1)
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 12:30:31 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Users where UserName='ads' and Password ='dsdsd' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 12:30:41 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='admin'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 12:30:41 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Users where UserName='admin' and Password ='admin' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 12:32:06 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='fsf'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 12:32:21 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Users where UserName ='toankim1504'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 12:32:21 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select Max(UserCode) from _Users
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 12:32:21 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select top(0) * from _Users
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 12:32:21 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : INSERT INTO _Users(UserCode,UserName,Password,Permission,PermissionUser,PermissionReport,CreatedDate,ExpiredDate,Status) VALUES (2,'toankim1504','toankim1504','','','','','',1)
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 12:32:28 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Users where UserName='fsf' and Password ='sfsf' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 12:33:46 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='rẻ'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 12:34:40 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Users where UserName ='Supervisor'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 12:34:40 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select Max(UserCode) from _Users
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 12:34:40 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select top(0) * from _Users
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 12:34:40 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : INSERT INTO _Users(UserCode,UserName,Password,Permission,PermissionUser,PermissionReport,CreatedDate,ExpiredDate,Status) VALUES (3,'Supervisor','Supervisor','','','','','',1)
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 12:34:42 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Users where UserName='rẻ' and Password ='er' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 12:35:32 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='dsd'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 12:35:44 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Users where UserName ='user'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 12:35:44 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select Max(UserCode) from _Users
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 12:35:44 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select top(0) * from _Users
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 12:35:44 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : INSERT INTO _Users(UserCode,UserName,Password,Permission,PermissionUser,PermissionReport,CreatedDate,ExpiredDate,Status) VALUES (4,'user','user','','','','','',1)
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 12:35:57 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='admin'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 12:35:57 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Users where UserName='admin' and Password ='admin' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 12:49:52 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='admin'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 12:49:52 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Users where UserName='admin' and Password ='admin' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 12:50:33 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='admin'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 12:50:33 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Users where UserName='admin' and Password ='admin' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 12:51:04 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='admin'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 12:51:04 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Users where UserName='admin' and Password ='admin' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 12:58:08 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='admin'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 12:58:08 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Users where UserName='admin' and Password ='admin' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 13:09:59 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='admin'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 13:09:59 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Users where UserName='admin' and Password ='admin' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 13:10:50 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='admin'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 13:10:50 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Users where UserName='admin' and Password ='admin' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 14:30:31 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select top(0) * from _Server
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 14:30:31 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : INSERT INTO _Server(Server,DBName,UserName,PassWord,MachineName1,MachineName2,MachineName3,KeyUnLock,DateTime,NoWS,KeyUnlock2,Email) VALUES ('127.0.0.1,1433','POS','sa','123456789','DESKTOP-AEMURG6','DESKTOP-AEMURG6','DESKTOP-AEMURG6',40488028,'05/04/2019 00:00:00','','05042019143031','')
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 14:31:11 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select KeyUnlock2 from _Server where KeyUnLock=40488028 and MachineName1 ='DESKTOP-AEMURG6'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 14:31:19 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Update _Server Set Email = 'nguyenhuytoan.effect@gmail.com' where KeyUnLock=40488028 and MachineName1 ='DESKTOP-AEMURG6'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 14:32:04 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Server where KeyUnlock=40488028 and KeyUnlock2='05042019143031'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 14:32:04 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Update _Server Set NoWS =20 Where KeyUnlock=40488028 and KeyUnlock2='05042019143031'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 14:32:25 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='1'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 14:32:49 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Users where UserName ='meodaugau'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 14:32:49 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select Max(UserCode) from _Users
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 14:32:49 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select top(0) * from _Users
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 14:32:49 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : INSERT INTO _Users(UserCode,UserName,Password,Permission,PermissionUser,PermissionReport,CreatedDate,ExpiredDate,Status) VALUES (5,'meodaugau','meodaugau','','','','','',1)
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 14:33:06 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='meodaugau'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 14:33:06 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Users where UserName='meodaugau' and Password ='meodaugau' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 16:56:42 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select top(0) * from _Server
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 16:56:42 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : INSERT INTO _Server(Server,DBName,UserName,PassWord,MachineName1,MachineName2,MachineName3,KeyUnLock,DateTime,NoWS,KeyUnlock2,Email) VALUES ('127.0.0.1,1433','POS','LA','123456789','DESKTOP-AEMURG6','DESKTOP-AEMURG6','DESKTOP-AEMURG6',40709528,'05/04/2019 00:00:00','','05042019165642','')
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 17:04:01 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : System.Data.SqlClient.SqlException (0x80131904): Cannot open database "POS1" requested by the login. The login failed.
+Login failed for user 'DESKTOP-AEMURG6\HUYTOAN-PC'.
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at POS2019.DAL.ConnectDataBase.ExIsOpen(SqlConnection connection) in e:\POS\POS\POS2019\POS2019\DAL\ConnectDataBase.cs:line 31
+ClientConnectionId:813123ab-e03f-4312-ad74-d95359cbd091
+Error Number:4060,State:1,Class:11
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 17:04:10 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select top(0) * from _Server
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 17:04:10 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : INSERT INTO _Server(Server,DBName,UserName,PassWord,MachineName1,MachineName2,MachineName3,KeyUnLock,DateTime,NoWS,KeyUnlock2,Email) VALUES ('127.0.0.1,1433','POS','sa','123456789','DESKTOP-AEMURG6','DESKTOP-AEMURG6','DESKTOP-AEMURG6',64468774,'05/04/2019 00:00:00','','05042019170410','')
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 17:04:32 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select KeyUnlock2 from _Server where KeyUnLock=64468774 and MachineName1 ='DESKTOP-AEMURG6'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 17:04:41 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Update _Server Set Email = 'nguyenhuytoan.effect@gmail.com' where KeyUnLock=64468774 and MachineName1 ='DESKTOP-AEMURG6'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 17:05:17 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Server where KeyUnlock=64468774 and KeyUnlock2='05042019170410'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 17:05:21 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Server where KeyUnlock=64468774 and KeyUnlock2='05042019170410'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 17:05:22 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Update _Server Set NoWS =10 Where KeyUnlock=64468774 and KeyUnlock2='05042019170410'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 17:28:09 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='admin'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 17:28:09 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Users where UserName='admin' and Password ='admin' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 17:29:58 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='admin'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 17:29:58 04 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Users where UserName='admin' and Password ='admin' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 00:23:08 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='admin'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 00:23:08 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Users where UserName='admin' and Password ='admin' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 00:23:16 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='admin'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 00:23:16 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Users where UserName='admin' and Password ='admin' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 00:37:47 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='admin'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 00:37:48 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Users where UserName='admin' and Password ='admin' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 00:38:09 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='toankim1504'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 00:38:09 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Users where UserName='toankim1504' and Password ='toankim1504' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 00:39:46 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='admin'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 00:39:46 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Users where UserName='admin' and Password ='admin' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 00:40:23 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='admin'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 00:40:23 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Users where UserName='admin' and Password ='admin' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 00:40:41 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='admin'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 00:40:41 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Users where UserName='admin' and Password ='admin' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 00:44:19 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='admin'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 00:44:19 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Users where UserName='admin' and Password ='admin' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 00:44:32 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='admin'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 00:44:32 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Users where UserName='admin' and Password ='admin' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 00:46:20 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='admin'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 00:46:20 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Users where UserName='admin' and Password ='admin' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 00:46:44 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='admin'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 00:46:44 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Users where UserName='admin' and Password ='admin' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 00:50:45 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='admin'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 00:50:45 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Users where UserName='admin' and Password ='admin' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 00:50:59 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='admin'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 00:50:59 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Users where UserName='admin' and Password ='admin' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 00:54:32 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='admin'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 00:54:32 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Users where UserName='admin' and Password ='admin' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 00:54:56 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='admin'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 00:54:56 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Users where UserName='admin' and Password ='admin' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 00:55:46 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='admin'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 00:55:46 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Users where UserName='admin' and Password ='admin' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 00:56:02 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='admin'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 00:56:02 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Users where UserName='admin' and Password ='admin' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 00:57:43 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='admin'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 00:57:43 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Users where UserName='admin' and Password ='admin' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 00:58:04 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='admin'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 00:58:04 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Users where UserName='admin' and Password ='admin' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 01:15:37 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='admin'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 01:15:37 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Users where UserName='admin' and Password ='admin' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 01:17:47 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='admin'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 01:17:47 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Users where UserName='admin' and Password ='admin' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 01:18:39 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='admin'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 01:18:39 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Users where UserName='admin' and Password ='admin' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 01:18:39 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select UserCode from _Users where UserName='admin' and Password ='admin' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 01:18:39 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select Server from _Server where MachineName1 ='DESKTOP-AEMURG6' or MachineName2='DESKTOP-AEMURG6' or MachineName3='DESKTOP-AEMURG6'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 01:22:25 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='admin'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 01:22:25 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Users where UserName='admin' and Password ='admin' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 01:22:25 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select UserCode from _Users where UserName='admin' and Password ='admin' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 01:22:25 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select Server from _Server where MachineName1 ='DESKTOP-AEMURG6' or MachineName2='DESKTOP-AEMURG6' or MachineName3='DESKTOP-AEMURG6'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 01:22:56 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='admin'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 01:22:56 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Users where UserName='admin' and Password ='admin' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 01:22:56 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select UserCode from _Users where UserName='admin' and Password ='admin' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 01:22:56 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select Server from _Server where MachineName1 ='DESKTOP-AEMURG6' or MachineName2='DESKTOP-AEMURG6' or MachineName3='DESKTOP-AEMURG6'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 01:23:44 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='admin'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 01:23:44 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Users where UserName='admin' and Password ='admin' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 01:23:44 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select UserCode from _Users where UserName='admin' and Password ='admin' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 01:23:44 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select Server from _Server where MachineName1 ='DESKTOP-AEMURG6' or MachineName2='DESKTOP-AEMURG6' or MachineName3='DESKTOP-AEMURG6'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 01:26:07 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='admin'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 01:26:07 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Users where UserName='admin' and Password ='admin' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 01:26:07 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select UserCode from _Users where UserName='admin' and Password ='admin' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 01:26:07 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select Server from _Server where MachineName1 ='DESKTOP-AEMURG6' or MachineName2='DESKTOP-AEMURG6' or MachineName3='DESKTOP-AEMURG6'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 01:26:24 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='toankim1504'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 01:26:24 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Users where UserName='toankim1504' and Password ='toankim1504' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 01:26:24 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select UserCode from _Users where UserName='toankim1504' and Password ='toankim1504' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 01:26:24 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select Server from _Server where MachineName1 ='DESKTOP-AEMURG6' or MachineName2='DESKTOP-AEMURG6' or MachineName3='DESKTOP-AEMURG6'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 01:29:04 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='admin'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 01:29:04 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Users where UserName='admin' and Password ='admin' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 01:29:04 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select UserCode from _Users where UserName='admin' and Password ='admin' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 01:29:04 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select Server from _Server where MachineName1 ='DESKTOP-AEMURG6' or MachineName2='DESKTOP-AEMURG6' or MachineName3='DESKTOP-AEMURG6'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 01:29:20 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='toankim1504'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 01:29:20 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Users where UserName='toankim1504' and Password ='toankim1504' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 01:29:21 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select UserCode from _Users where UserName='toankim1504' and Password ='toankim1504' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 01:29:21 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select Server from _Server where MachineName1 ='DESKTOP-AEMURG6' or MachineName2='DESKTOP-AEMURG6' or MachineName3='DESKTOP-AEMURG6'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 01:32:35 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='admin'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 01:32:35 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Users where UserName='admin' and Password ='admin' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 01:32:35 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select UserCode from _Users where UserName='admin' and Password ='admin' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 01:32:35 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select Server from _Server where MachineName1 ='DESKTOP-AEMURG6' or MachineName2='DESKTOP-AEMURG6' or MachineName3='DESKTOP-AEMURG6'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 01:32:52 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='toankim1504'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 01:32:52 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Users where UserName='toankim1504' and Password ='toankim1504' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 01:32:52 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select UserCode from _Users where UserName='toankim1504' and Password ='toankim1504' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 01:32:52 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select Server from _Server where MachineName1 ='DESKTOP-AEMURG6' or MachineName2='DESKTOP-AEMURG6' or MachineName3='DESKTOP-AEMURG6'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 01:35:04 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='admin'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 01:35:04 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Users where UserName='admin' and Password ='admin' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 01:35:04 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select UserCode from _Users where UserName='admin' and Password ='admin' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 01:35:04 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select Server from _Server where MachineName1 ='DESKTOP-AEMURG6' or MachineName2='DESKTOP-AEMURG6' or MachineName3='DESKTOP-AEMURG6'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 01:35:20 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='toankim1504'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 01:35:20 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Users where UserName='toankim1504' and Password ='toankim1504' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 01:35:20 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select UserCode from _Users where UserName='toankim1504' and Password ='toankim1504' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 01:35:20 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select Server from _Server where MachineName1 ='DESKTOP-AEMURG6' or MachineName2='DESKTOP-AEMURG6' or MachineName3='DESKTOP-AEMURG6'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 02:07:42 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : update _Users set CodeUnlock =8153093 where UserName ='admin'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 02:20:05 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : update _Users set CodeUnlock =3763467 where UserName ='admin'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 02:20:19 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select CodeUnlock from _Users where UserName ='admin'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 02:21:27 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : update _Users set CodeUnlock =10858292 where UserName ='admin'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 02:21:31 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select CodeUnlock from _Users where UserName ='admin'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 02:27:01 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : update _Users set CodeUnlock =50155279 where UserName ='admin'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 02:27:13 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select CodeUnlock from _Users where UserName ='admin'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 02:29:12 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : update _Users set CodeUnlock =77170133 where UserName ='admin'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 02:29:23 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select CodeUnlock from _Users where UserName ='admin'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 02:29:46 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='admin' and CodeUnlock=77170133
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 02:35:56 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : update _Users set CodeUnlock =95413679 where UserName ='admin'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 02:36:11 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select CodeUnlock from _Users where UserName ='admin'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 02:36:31 05 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='admin' and CodeUnlock=95413679
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 14:38:56 08 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select top(0) * from _Server
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 14:38:56 08 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : INSERT INTO _Server(Server,DBName,UserName,PassWord,MachineName1,MachineName2,MachineName3,KeyUnLock,DateTime,NoWS,KeyUnlock2,Email) VALUES ('127.0.0.1,1433','POS','sa','123456789','DESKTOP-AEMURG6','DESKTOP-AEMURG6','DESKTOP-AEMURG6',49517022,'05/08/2019 00:00:00','','05082019143856','')
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 01:12:29 09 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select top(0) * from _Server
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 01:12:30 09 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : INSERT INTO _Server(Server,DBName,UserName,PassWord,MachineName1,MachineName2,MachineName3,KeyUnLock,DateTime,NoWS,KeyUnlock2,Email) VALUES ('127.0.0.1,1433','POS','sa','123456789','DESKTOP-AEMURG6','DESKTOP-AEMURG6','DESKTOP-AEMURG6',50003742,'05/09/2019 00:00:00','','05092019011230','')
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 01:12:48 09 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : update _Users set CodeUnlock =50789391 where UserName ='kkkkk'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 01:12:59 09 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : update _Users set CodeUnlock =2603168 where UserName ='admin'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 03:18:50 21 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : update _Users set CodeUnlock =54068115 where UserName ='admin'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 03:19:12 21 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select top(0) * from _Server
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 03:45:04 21 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='admin'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 03:45:04 21 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Users where UserName='admin' and Password ='admin' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 03:45:04 21 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select UserCode from _Users where UserName='admin' and Password ='admin' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 03:45:04 21 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select Server from _Server where MachineName1 ='DESKTOP-AEMURG6' or MachineName2='DESKTOP-AEMURG6' or MachineName3='DESKTOP-AEMURG6'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 03:53:28 21 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='admin'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 03:53:28 21 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Users where UserName='admin' and Password ='admin' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 03:53:28 21 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select UserCode from _Users where UserName='admin' and Password ='admin' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 03:53:28 21 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select Server from _Server where MachineName1 ='DESKTOP-AEMURG6' or MachineName2='DESKTOP-AEMURG6' or MachineName3='DESKTOP-AEMURG6'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 03:56:01 21 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='admin'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 03:56:01 21 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Users where UserName='admin' and Password ='admin' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 03:56:01 21 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select UserCode from _Users where UserName='admin' and Password ='admin' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 03:56:01 21 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select Server from _Server where MachineName1 ='DESKTOP-AEMURG6' or MachineName2='DESKTOP-AEMURG6' or MachineName3='DESKTOP-AEMURG6'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 03:56:47 21 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='admin'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 03:56:47 21 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Users where UserName='admin' and Password ='admin' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 03:56:47 21 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select UserCode from _Users where UserName='admin' and Password ='admin' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 03:56:47 21 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select Server from _Server where MachineName1 ='DESKTOP-AEMURG6' or MachineName2='DESKTOP-AEMURG6' or MachineName3='DESKTOP-AEMURG6'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 04:06:39 21 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='admin'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 04:06:39 21 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Users where UserName='admin' and Password ='admin' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 04:06:39 21 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select UserCode from _Users where UserName='admin' and Password ='admin' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 04:06:39 21 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select Server from _Server where MachineName1 ='DESKTOP-AEMURG6' or MachineName2='DESKTOP-AEMURG6' or MachineName3='DESKTOP-AEMURG6'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 04:07:40 21 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='admin'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 04:07:40 21 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Users where UserName='admin' and Password ='admin' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 04:07:40 21 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select UserCode from _Users where UserName='admin' and Password ='admin' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 04:07:40 21 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select Server from _Server where MachineName1 ='DESKTOP-AEMURG6' or MachineName2='DESKTOP-AEMURG6' or MachineName3='DESKTOP-AEMURG6'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 04:09:33 21 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='admin'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 04:09:33 21 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Users where UserName='admin' and Password ='admin' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 04:09:33 21 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select UserCode from _Users where UserName='admin' and Password ='admin' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 04:09:33 21 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select Server from _Server where MachineName1 ='DESKTOP-AEMURG6' or MachineName2='DESKTOP-AEMURG6' or MachineName3='DESKTOP-AEMURG6'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 04:13:30 21 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='admin'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 04:13:30 21 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Users where UserName='admin' and Password ='admin' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 04:13:30 21 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select UserCode from _Users where UserName='admin' and Password ='admin' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 04:13:30 21 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select Server from _Server where MachineName1 ='DESKTOP-AEMURG6' or MachineName2='DESKTOP-AEMURG6' or MachineName3='DESKTOP-AEMURG6'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 04:14:30 21 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='admin'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 04:14:30 21 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Users where UserName='admin' and Password ='admin' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 04:14:30 21 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select UserCode from _Users where UserName='admin' and Password ='admin' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 04:14:30 21 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select Server from _Server where MachineName1 ='DESKTOP-AEMURG6' or MachineName2='DESKTOP-AEMURG6' or MachineName3='DESKTOP-AEMURG6'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 04:15:11 21 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='admin'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 04:15:11 21 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Users where UserName='admin' and Password ='admin' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 04:15:11 21 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select UserCode from _Users where UserName='admin' and Password ='admin' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 04:15:12 21 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select Server from _Server where MachineName1 ='DESKTOP-AEMURG6' or MachineName2='DESKTOP-AEMURG6' or MachineName3='DESKTOP-AEMURG6'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 04:15:38 21 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select count(*) from _Users where UserName='admin'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 04:15:38 21 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select count(*) from _Users where UserName='admin' and Password ='admin' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 04:15:38 21 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : Select UserCode from _Users where UserName='admin' and Password ='admin' and Status = 1
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 04:15:38 21 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Content : select Server from _Server where MachineName1 ='DESKTOP-AEMURG6' or MachineName2='DESKTOP-AEMURG6' or MachineName3='DESKTOP-AEMURG6'
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 20:14:48 24 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :select count(*) from _Users where UserName='admin' 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 20:14:48 24 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :Select count(*) from _Users where UserName='admin' and Password ='admin' and Status = 1 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 20:14:48 24 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :Select UserCode from _Users where UserName='admin' and Password ='admin' and Status = 1 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 20:14:48 24 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :select Server from _Server where MachineName1 ='DESKTOP-AEMURG6' or MachineName2='DESKTOP-AEMURG6' or MachineName3='DESKTOP-AEMURG6' 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 20:27:22 24 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :select top(0) * from _Server 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 20:28:52 24 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :select top(0) * from _Server 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 20:29:39 24 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :select top(0) * from _Server 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 20:29:39 24 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :INSERT INTO _Server(Server,DBName,UserName,PassWord,MachineName1,MachineName2,MachineName3,KeyUnLock,DateTime,NoWS,KeyUnlock2,Email,Email) VALUES ('127.0.0.1,1433','POS','sa','123456789','DESKTOP-AEMURG6','DESKTOP-AEMURG6','DESKTOP-AEMURG6',63478786,'','','05242019202939','','') 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 20:29:39 24 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :System.Data.SqlClient.SqlException (0x80131904): The column name 'Email' is specified more than once in the SET clause or column list of an INSERT. A column cannot be assigned more than one value in the same clause. Modify the clause to make sure that a column is updated only once.  If this statement updates or inserts columns into a view, column aliasing can conceal the duplication in your code.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at POS2019.DAL.DataAccess.InsertDBToSQL(DataTable dt) in e:\POS\POS\POS2019\POS2019\DAL\DataAccess.cs:line 102
+ClientConnectionId:06a32bf7-14f0-4aee-80ba-a9f16251f84e
+Error Number:264,State:1,Class:16 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 20:33:19 24 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :Select count(*) from _Server where KeyUnlock=63478786 and KeyUnlock2='05242019202939' 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 20:33:19 24 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :Update _Server Set NoWS =12 Where KeyUnlock=63478786 and KeyUnlock2='05242019202939' 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 20:34:08 24 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :select count(*) from _Users where UserName='21211212' 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 06:24:34 27 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :Select * from _District 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 06:25:18 27 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :Select DistrictID,DistrictCode, DistrictName,EnglishName from _District 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 06:25:34 27 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :Select DistrictID,DistrictCode, DistrictName,EnglishName from _District 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 06:26:39 27 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :Select * from _District 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 06:27:34 27 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :Select * from _District 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 06:27:54 27 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :Select * from _District 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 06:35:36 27 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :Select a.*, b.* from _District a inner join _Province b on a.ProvinceCode = b.ProvinceCode 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 06:37:26 27 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :Select a.DistrictID,a.DistrictCode,a.DistrictName,a.EnglishName,a.Grate, b.ProvinceName from _District a inner join _Province b on a.ProvinceCode = b.ProvinceCode 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 06:40:27 27 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :Select a.DistrictID,a.DistrictCode,a.DistrictName,a.EnglishName,a.Grate, b.ProvinceName from _District a inner join _Province b on a.ProvinceCode = b.ProvinceCode 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 06:41:17 27 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :Select a.DistrictID,a.DistrictCode,a.DistrictName,a.EnglishName,a.Grate, b.ProvinceName from _District a inner join _Province b on a.ProvinceCode = b.ProvinceCode 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 06:41:32 27 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :Select a.DistrictID,a.DistrictCode,a.DistrictName,a.EnglishName,a.Grate, b.ProvinceName from _District a inner join _Province b on a.ProvinceCode = b.ProvinceCode 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 17:13:34 30 Tháng Năm 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :update _Users set CodeUnlock =14434802 where UserName ='admin' 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 21:58:05 17 Tháng Sáu 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :select count(*) from _Users where UserName='admin' 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 21:58:05 17 Tháng Sáu 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :Select count(*) from _Users where UserName='admin' and Password ='admin' and Status = 1 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 21:58:05 17 Tháng Sáu 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :Select UserCode from _Users where UserName='admin' and Password ='admin' and Status = 1 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 21:58:06 17 Tháng Sáu 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :select Server from _Server where MachineName1 ='DESKTOP-AEMURG6' or MachineName2='DESKTOP-AEMURG6' or MachineName3='DESKTOP-AEMURG6' 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 01:30:42 03 Tháng Bảy 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :select count(*) from _Users where UserName='admin' 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 01:30:42 03 Tháng Bảy 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :Select count(*) from _Users where UserName='admin' and Password ='admin' and Status = 1 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 01:30:42 03 Tháng Bảy 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :Select UserCode from _Users where UserName='admin' and Password ='admin' and Status = 1 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 01:30:42 03 Tháng Bảy 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :select Server from _Server where MachineName1 ='DESKTOP-AEMURG6' or MachineName2='DESKTOP-AEMURG6' or MachineName3='DESKTOP-AEMURG6' 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 12:46:02 03 Tháng Bảy 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :select count(*) from _Users where UserName='admin' 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 12:46:02 03 Tháng Bảy 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :Select count(*) from _Users where UserName='admin' and Password ='admin' and Status = 1 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 12:46:02 03 Tháng Bảy 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :Select UserCode from _Users where UserName='admin' and Password ='admin' and Status = 1 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 12:46:02 03 Tháng Bảy 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :select Server from _Server where MachineName1 ='DESKTOP-AEMURG6' or MachineName2='DESKTOP-AEMURG6' or MachineName3='DESKTOP-AEMURG6' 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 12:47:59 03 Tháng Bảy 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :select count(*) from _Users where UserName='admin' 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 12:47:59 03 Tháng Bảy 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :Select count(*) from _Users where UserName='admin' and Password ='admin' and Status = 1 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 12:47:59 03 Tháng Bảy 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :Select UserCode from _Users where UserName='admin' and Password ='admin' and Status = 1 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 12:47:59 03 Tháng Bảy 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :select Server from _Server where MachineName1 ='DESKTOP-AEMURG6' or MachineName2='DESKTOP-AEMURG6' or MachineName3='DESKTOP-AEMURG6' 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 21:09:37 03 Tháng Bảy 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :select count(*) from _Users where UserName='admin' 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 21:09:37 03 Tháng Bảy 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :Select count(*) from _Users where UserName='admin' and Password ='admin' and Status = 1 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 21:09:37 03 Tháng Bảy 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :Select UserCode from _Users where UserName='admin' and Password ='admin' and Status = 1 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 21:09:37 03 Tháng Bảy 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :select Server from _Server where MachineName1 ='DESKTOP-AEMURG6' or MachineName2='DESKTOP-AEMURG6' or MachineName3='DESKTOP-AEMURG6' 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 21:18:53 03 Tháng Bảy 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :select count(*) from _Users where UserName='admin' 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 21:18:53 03 Tháng Bảy 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :Select count(*) from _Users where UserName='admin' and Password ='admin' and Status = 1 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 21:18:53 03 Tháng Bảy 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :Select UserCode from _Users where UserName='admin' and Password ='admin' and Status = 1 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 21:18:53 03 Tháng Bảy 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :select Server from _Server where MachineName1 ='DESKTOP-AEMURG6' or MachineName2='DESKTOP-AEMURG6' or MachineName3='DESKTOP-AEMURG6' 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 21:23:03 03 Tháng Bảy 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :select count(*) from _Users where UserName='admin' 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 21:23:03 03 Tháng Bảy 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :Select count(*) from _Users where UserName='admin' and Password ='admin' and Status = 1 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 21:23:03 03 Tháng Bảy 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :Select UserCode from _Users where UserName='admin' and Password ='admin' and Status = 1 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 21:23:03 03 Tháng Bảy 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :select Server from _Server where MachineName1 ='DESKTOP-AEMURG6' or MachineName2='DESKTOP-AEMURG6' or MachineName3='DESKTOP-AEMURG6' 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 21:26:30 03 Tháng Bảy 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :select count(*) from _Users where UserName='admin' 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 21:26:30 03 Tháng Bảy 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :Select count(*) from _Users where UserName='admin' and Password ='admin' and Status = 1 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 21:26:30 03 Tháng Bảy 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :Select UserCode from _Users where UserName='admin' and Password ='admin' and Status = 1 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 21:26:30 03 Tháng Bảy 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :select Server from _Server where MachineName1 ='DESKTOP-AEMURG6' or MachineName2='DESKTOP-AEMURG6' or MachineName3='DESKTOP-AEMURG6' 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 07:45:52 05 Tháng Bảy 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :select count(*) from _Users where UserName='admin' 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 07:45:52 05 Tháng Bảy 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :Select count(*) from _Users where UserName='admin' and Password ='admin' and Status = 1 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 07:45:53 05 Tháng Bảy 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :Select UserCode from _Users where UserName='admin' and Password ='admin' and Status = 1 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 07:45:53 05 Tháng Bảy 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :select Server from _Server where MachineName1 ='DESKTOP-AEMURG6' or MachineName2='DESKTOP-AEMURG6' or MachineName3='DESKTOP-AEMURG6' 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 23:37:58 05 Tháng Bảy 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :select count(*) from _Users where UserName='admin' 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 23:37:58 05 Tháng Bảy 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :Select count(*) from _Users where UserName='admin' and Password ='admin' and Status = 1 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 23:37:58 05 Tháng Bảy 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :Select UserCode from _Users where UserName='admin' and Password ='admin' and Status = 1 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 23:37:58 05 Tháng Bảy 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :select Server from _Server where MachineName1 ='DESKTOP-AEMURG6' or MachineName2='DESKTOP-AEMURG6' or MachineName3='DESKTOP-AEMURG6' 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 00:00:10 07 Tháng Bảy 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :update _Users set CodeUnlock =6864935 where UserName ='admin' 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 00:03:04 07 Tháng Bảy 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :select count(*) from _Users where UserName='admin' 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 00:03:04 07 Tháng Bảy 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :Select count(*) from _Users where UserName='admin' and Password ='admin' and Status = 1 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 00:03:04 07 Tháng Bảy 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :Select UserCode from _Users where UserName='admin' and Password ='admin' and Status = 1 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 00:03:04 07 Tháng Bảy 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :select Server from _Server where MachineName1 ='DESKTOP-AEMURG6' or MachineName2='DESKTOP-AEMURG6' or MachineName3='DESKTOP-AEMURG6' 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 00:06:36 07 Tháng Bảy 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :select count(*) from _Users where UserName='admin' 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 00:06:36 07 Tháng Bảy 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :Select count(*) from _Users where UserName='admin' and Password ='admin' and Status = 1 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 00:06:36 07 Tháng Bảy 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :Select UserCode from _Users where UserName='admin' and Password ='admin' and Status = 1 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 00:06:36 07 Tháng Bảy 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :select Server from _Server where MachineName1 ='DESKTOP-AEMURG6' or MachineName2='DESKTOP-AEMURG6' or MachineName3='DESKTOP-AEMURG6' 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 00:07:32 07 Tháng Bảy 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :select count(*) from _Users where UserName='admin' 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 00:07:32 07 Tháng Bảy 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :Select count(*) from _Users where UserName='admin' and Password ='admin' and Status = 1 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 00:07:32 07 Tháng Bảy 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :Select UserCode from _Users where UserName='admin' and Password ='admin' and Status = 1 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 00:07:32 07 Tháng Bảy 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :select Server from _Server where MachineName1 ='DESKTOP-AEMURG6' or MachineName2='DESKTOP-AEMURG6' or MachineName3='DESKTOP-AEMURG6' 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 00:09:21 07 Tháng Bảy 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :select count(*) from _Users where UserName='admin' 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 00:09:21 07 Tháng Bảy 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :Select count(*) from _Users where UserName='admin' and Password ='admin' and Status = 1 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 00:09:21 07 Tháng Bảy 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :Select UserCode from _Users where UserName='admin' and Password ='admin' and Status = 1 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 00:09:21 07 Tháng Bảy 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :select Server from _Server where MachineName1 ='DESKTOP-AEMURG6' or MachineName2='DESKTOP-AEMURG6' or MachineName3='DESKTOP-AEMURG6' 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 00:16:43 07 Tháng Bảy 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :select count(*) from _Users where UserName='admin' 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 00:16:43 07 Tháng Bảy 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :Select count(*) from _Users where UserName='admin' and Password ='admin' and Status = 1 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 00:16:43 07 Tháng Bảy 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :Select UserCode from _Users where UserName='admin' and Password ='admin' and Status = 1 
+-------End -- Mèo Đầu Gấu ------------------------
+
+Log Entry : 00:16:43 07 Tháng Bảy 2019
+------Begin - Mèo Đầu Gấu-------------------------
+Nội dung :select Server from _Server where MachineName1 ='DESKTOP-AEMURG6' or MachineName2='DESKTOP-AEMURG6' or MachineName3='DESKTOP-AEMURG6' 
+-------End -- Mèo Đầu Gấu ------------------------
